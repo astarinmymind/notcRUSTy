@@ -1,0 +1,2 @@
+# notcRUSTy
+LEARNING RUST LETS GO
